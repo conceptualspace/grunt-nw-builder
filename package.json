@@ -36,7 +36,7 @@
     "application"
   ],
   "dependencies": {
-    "nw-builder": "https://github.com/conceptualspace/nw-builder"
+    "nw-builder": "https://github.com/evshiron/nw-builder"
   },
   "devDependencies": {
     "grunt": "^0.4.4"
